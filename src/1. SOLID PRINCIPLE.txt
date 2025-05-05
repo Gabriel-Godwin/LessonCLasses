@@ -1,0 +1,23 @@
+1. SOLID PRINCIPLE
+2. DATA TYPES: Primitive, Reference
+3. Class
+4 Interface
+5 Strings
+6. Access Modifiers
+objects
+
+
+S - Single Responsibility
+O - Open/Close principles
+L - Liskov Substitution principle
+I - Interface Segregation 
+D -Dependency Inversion
+
+Pillars of OOP
+1. Abstraction
+2. Inheritance
+3. Polymorphism
+4. Encapsulation
+
+POJO:
+Plain Old Java Object. It has private fields Provides public getters and settersHas no business logic (i.e., no complex methods)Doesn’t extend or implement any special Java frameworks or libraries
