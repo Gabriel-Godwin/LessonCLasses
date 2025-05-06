@@ -1,7 +1,7 @@
 1. SOLID PRINCIPLE
 2. DATA TYPES: Primitive, Reference
 3. Class
-4 Interface
+4 Interface: has a method without a body
 5 Strings
 6. Access Modifiers
 objects
@@ -14,10 +14,10 @@ I - Interface Segregation
 D -Dependency Inversion
 
 Pillars of OOP
-1. Abstraction
-2. Inheritance
-3. Polymorphism
-4. Encapsulation
+1. Abstraction: Is the processing of trying to hide complex details and showing important parts eg. driving a car without knowing how the engine works
+2. Inheritance: This entails inheriting methods and fields from a parent class
+3. Polymorphism: Something that can appear or work in MULTIPLE FORMS. eg a method sound
+4. Encapsulation: Wrapping methods and data together and hiding them from public access eg you can't directly touch a car's engine
 
 POJO:
 Plain Old Java Object. It has private fields Provides public getters and settersHas no business logic (i.e., no complex methods)Doesn’t extend or implement any special Java frameworks or libraries
